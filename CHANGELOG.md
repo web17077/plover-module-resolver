@@ -4,7 +4,7 @@
 
 ### Features
 
-* first version ([7afdd4b](https://github.com/plover-modules/plover-module-resolver/commit/7afdd4b))
+* first version ([7afdd4b](https://github.com/ploverjs/plover-module-resolver/commit/7afdd4b))
 
 
 
